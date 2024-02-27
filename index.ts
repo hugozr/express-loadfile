@@ -1,4 +1,4 @@
-//ejecutar ts-node index.ts    
+//Ejecutar ts-node index.ts    
 import express from 'express';
 
 import * as fs from 'fs';
